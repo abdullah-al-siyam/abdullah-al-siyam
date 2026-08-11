@@ -1,290 +1,40 @@
-# Hey there! You found Abdullah. 👀
+<h1 align="center">Hey there! You found Abdullah. 👀</h1>
+<h3 align="center">CSE Student | Web Developer | AI Builder | Networking & Cybersecurity | Leadership</h3>
 
-### CSE Student | Web Developer | AI Builder | Networking & Cybersecurity | Leadership
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-al-siyam&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-al-siyam" /> </p>
 
-I'm a Computer Science & Engineering student who enjoys **building real-world web applications, exploring AI-assisted development, understanding computer networks, and solving technical problems**.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullah-al-siyam" alt="abdullah-al-siyam" /></a> </p>
 
-I have experience working across **frontend and backend web development**, and I use AI tools to accelerate development, experiment with ideas, and turn concepts into working projects.
+- 🚀 What I'm Working On University Research Copilot A research discovery and guidance platform designed to help university students explore academic projects, theses, publications, research areas, and potential research directions. Tech: React • FastAPI • PostgreSQL • Firebase [University Research Copilot](https://github.com/abdullah-al-siyam/University-Research-Copilot)
 
-Alongside development, I'm building a strong foundation in **Networking and Cybersecurity**, with a long-term goal of working in security operations, threat intelligence, DFIR, and security research.
+- 🌱 I’m currently learning **🌐 Networking & Network Security 🐧 Linux & System Security 🛡️ Cybersecurity Fundamentals 📊 SOC Operations & Security Monitoring 🔎 Threat Intelligence & Threat Hunting 🕵️ Digital Forensics & Incident Response 🦠 Malware Analysis 🔬 Security Research 🤖 AI-assisted Development 🧠 Explainable AI for Cybersecurity**
 
-I also enjoy **hackathons, collaborative projects, problem solving, and taking leadership roles while working with teams**.
+- 🤝 I’m looking to collaborate on AI, Web Development & Cybersecurity Projects I’m interested in collaborating on projects involving AI-powered applications, web technologies, networking, cybersecurity, research, and real-world problem solving. [abdullah-al-siyam](🔗 GitHub: https://github.com/abdullah-al-siyam)
 
+- 📂 All of my projects are available at [https://github.com/abdullah-al-siyam](https://github.com/abdullah-al-siyam)
 
+- 📝 I regularly write articles on [Currently building my writing and research portfolio. 📝 Blog: [Coming Soon]](Currently building my writing and research portfolio. 📝 Blog: [Coming Soon])
 
-## 🚀 What I Do
+- 💬 Ask me about **🌐 Web Development 🤖 AI-assisted Development 🧠 Prompt Engineering 🌐 Networking 🛡️ Cybersecurity 🏆 Hackathons 💡 Building projects with AI 🔬 Research & Academic Projects**
 
-* 🌐 Build web applications across frontend and backend
-* 🤖 Use AI-assisted development to turn ideas into working products
-* 🧠 Explore practical applications of AI in software and cybersecurity
-* 🌐 Learn and practice networking and network security
-* 🛡️ Build cybersecurity knowledge through hands-on labs and projects
-* 🏗️ Participate in hackathons and rapid product development
-* 👥 Take initiative and leadership in team-based projects
-* 🔬 Explore cybersecurity research and emerging technologies
+- 📫 Connect With Me **📧 Email: mailfromsiyam@gmail.com 💼 LinkedIn: https://www.linkedin.com/in/mdabdullah-khan 🐙 GitHub: https://github.com/abdullah-al-siyam**
 
+- 📄 Know about my experiences [📄 Resume: https://drive.google.com/file/d/1nKvu09RdawW_6vwCeNs7-Yx2-9RaPhu8/view?usp=sharing 💼 LinkedIn: https://www.linkedin.com/in/mdabdullah-khan](📄 Resume: https://drive.google.com/file/d/1nKvu09RdawW_6vwCeNs7-Yx2-9RaPhu8/view?usp=sharing 💼 LinkedIn: https://www.linkedin.com/in/mdabdullah-khan)
 
+- ⚡ Fun fact **I think I’m funny. My friends are still investigating. 😄**
 
-## 💻 Technical Interests
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mdabdullah-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdabdullah-khan" height="30" width="40" /></a>
+<a href="https://fb.com/siyam.khan.7503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="siyam.khan.7503" height="30" width="40" /></a>
+<a href="https://instagram.com/abdullahal_siyam515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullahal_siyam515" height="30" width="40" /></a>
+</p>
 
-### 🌐 Web Development
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-* Frontend Development
-* Backend Development
-* REST APIs
-* Database-driven Applications
-* Full-Stack Web Development
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-al-siyam&show_icons=true&locale=en&layout=compact" alt="abdullah-al-siyam" /></p>
 
-### 🤖 AI & AI-Assisted Development
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah-al-siyam&show_icons=true&locale=en" alt="abdullah-al-siyam" /></p>
 
-* AI-assisted Software Development
-* Prompt Engineering
-* AI-powered Applications
-* Machine Learning Fundamentals
-* Explainable AI
-
-### 🌐 Networking
-
-* TCP/IP
-* OSI Model
-* IP Addressing & Subnetting
-* DNS
-* DHCP
-* HTTP/HTTPS
-* Network Traffic Analysis
-* Network Security
-
-### 🛡️ Cybersecurity
-
-* Cybersecurity Fundamentals
-* Security Operations (SOC)
-* Threat Intelligence
-* Threat Hunting
-* Digital Forensics & Incident Response
-* Malware Analysis
-* Security Research
-
-### 🔬 Research
-
-* Literature Review
-* Research Methodology
-* Machine Learning for Cybersecurity
-* Healthcare IoT Security
-* Intrusion Detection Systems
-* Explainable AI for Security
-
-
-
-## 🧰 Technologies & Tools
-
-### Languages
-
-`Python` `Java` `PHP` `JavaScript` `SQL`
-
-### Web & Backend
-
-`React` `FastAPI` `Spring Boot` `HTML` `CSS`
-
-### Databases
-
-`PostgreSQL` `MySQL`
-
-### Development & Security
-
-`Git` `GitHub` `Linux` `Kali Linux` `Wireshark`
-
-> My focus is not just learning technologies individually, but understanding how they can be combined to build useful and secure systems.
-
-
-
-## 🏆 Hackathons & Building
-
-I enjoy participating in **hackathons and rapid development challenges**, where I work on turning ideas into functional products within limited time.
-
-My approach is simple:
-
-```text
-Idea
-  ↓
-Understand the Problem
-  ↓
-Design the Solution
-  ↓
-Build with Technology + AI
-  ↓
-Test & Improve
-  ↓
-Ship
-```
-
-I'm particularly interested in projects that combine **AI, web technologies, networking, cybersecurity, and real-world problems**.
-
-
-
-## 🔐 Cybersecurity Journey
-
-My cybersecurity learning path is focused on developing strong fundamentals before moving into advanced areas.
-
-```text
-Networking
-     ↓
-Linux & Windows Security
-     ↓
-Cybersecurity Fundamentals
-     ↓
-SOC & Security Monitoring
-     ↓
-Traffic Analysis
-     ↓
-Threat Intelligence
-     ↓
-Threat Hunting
-     ↓
-DFIR
-     ↓
-Malware Analysis
-     ↓
-Security Research
-```
-
-My long-term goal is to become a **security professional and researcher** capable of understanding, investigating, and responding to real-world security problems.
-
-
-
-## 🔬 Research
-
-### Explainable Machine Learning for Intrusion Detection in Healthcare IoT Networks
-
-My current research direction explores the application of **Explainable Machine Learning (XAI)** to intrusion detection in healthcare IoT environments.
-
-I'm particularly interested in:
-
-* Healthcare IoT Security
-* Intrusion Detection Systems
-* Network Anomaly Detection
-* Explainable AI
-* Machine Learning for Cybersecurity
-* Security & Privacy
-
-The broader goal is to understand how intelligent security systems can become not only effective, but also **interpretable and trustworthy**.
-
-
-
-## 🚀 Featured Projects
-
-### 🧠 University Research Copilot
-
-A research discovery and guidance platform designed to help university students explore previous projects, theses, publications, research areas, and potential research directions.
-
-**Focus:** Research Discovery • Academic Technology • Knowledge Organization
-
-**Stack:** React • FastAPI • PostgreSQL • Firebase
-
-
-
-### 🚗 Vehicle Rental System
-
-A web-based vehicle rental management system developed using Java and Spring Boot.
-
-**Focus:** Backend Development • Database Management • Web Application
-
-**Stack:** Java • Spring Boot • MySQL
-
-
-
-### 📚 SubjectHub
-
-An academic resource platform designed to organize and provide access to course-related learning resources.
-
-**Focus:** Academic Technology • Web Development • Resource Management
-
-**Stack:** PHP • MySQL • HTML • CSS
-
-
-
-## 📚 Currently Learning
-
-* Networking & Network Security
-* Linux & System Security
-* Cybersecurity Fundamentals
-* SOC Operations
-* Network Traffic Analysis
-* Threat Intelligence
-* Threat Hunting
-* Digital Forensics & Incident Response
-* Malware Analysis
-* Security Research
-
-
-
-## 🎓 Academic & Career Direction
-
-I'm pursuing my undergraduate degree in **Computer Science & Engineering**, with a focus on **Network and Communication**.
-
-My current interests sit at the intersection of:
-
-```text
-Web Development
-      +
-AI & AI-Assisted Development
-      +
-Networking
-      +
-Cybersecurity
-      +
-Research
-```
-
-My long-term cybersecurity direction is:
-
-**Cybersecurity → SOC Analyst → Cybersecurity Analyst → Threat Intelligence / DFIR → Security Research**
-
-I'm also interested in pursuing graduate-level study and research in areas such as **Cybersecurity, Network Security, Healthcare Security, IoT Security, and AI-assisted Security Research**.
-
-
-
-## 🧭 My Approach
-
-I believe good technology is not only about writing code.
-
-It's about:
-
-* Understanding the problem
-* Designing practical solutions
-* Learning continuously
-* Using the right tools
-* Working effectively with people
-* Taking ownership
-* Building, testing, and improving
-* Understanding security from the beginning
-
-
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with **developers, cybersecurity professionals, researchers, students, builders, and people working on interesting technical problems**.
-
-* 💼 LinkedIn: https://www.linkedin.com/in/mdabdullah-khan
-* 📧 Email: mailfromsiyam@gmail.com
-* 🌐 Portfolio: https://abdullah-al-siyam.github.io/PortFolio
-
-
-
-### ⚡ A Little More About Me
-
-```text
-🎓 CSE Student
-🌐 Web Developer
-🤖 AI Builder
-🌐 Networking Enthusiast
-🛡️ Cybersecurity Learner
-🔬 Security Researcher in Progress
-🏆 Hackathon Participant
-👥 Team Leader & Collaborator
-📚 Lifelong Learner
-🇧🇩 Bangladesh
-```
-
----
-
-⭐ Thanks for visiting my profile!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-al-siyam&" alt="abdullah-al-siyam" /></p>
