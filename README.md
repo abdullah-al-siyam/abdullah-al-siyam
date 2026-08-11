@@ -1,4 +1,4 @@
-# Hi, I'm Siyam 👋
+# Hey there! You found Abdullah. 👀
 
 ### CSE Student | Web Developer | AI Builder | Networking & Cybersecurity | Leadership
 
